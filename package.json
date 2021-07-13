@@ -4,7 +4,7 @@
   "description": "library for people who do nnt understand Regular Expressions (like me). It might help you to create and execute an expression without any knowledge about Regular Expressions just with verbal language.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "node index.js"
   },
   "keywords": [
