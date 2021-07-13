@@ -13,6 +13,14 @@
     "regular-expressions",
     "RE"
   ],
+  "homepage": "https://github.com/haditorabi/descriptive-regular-expressions",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haditorabi/descriptive-regular-expressions.git"
+  },
   "author": "Hadi Torabi",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
