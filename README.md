@@ -5,6 +5,9 @@
 
 Library for people who don't understand regular expressions like me. It may help them to create regular Expressions without any knowledge.
 
+### TODO
+This library is experimental currently and will be updated by time.
+
 ## Install
 
 ### TODO
@@ -12,20 +15,15 @@ Library for people who don't understand regular expressions like me. It may help
 Install:
 
 ```sh
-npm install verbal-expressions
+
 ```
 
 ## Test
 
 ```sh
-npm test
+npm run test
 ```
 
-## Creating a minified version
-
-```sh
-npm run build
-```
 
 
 ## Documentation & Examples
